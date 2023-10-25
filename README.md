@@ -10,17 +10,17 @@ Welcome to SecurePractices101, where we're dedicated to promoting secure coding 
 
   Clone the repository from your account to your local machine using Git. Replace `<your-username>` with your actual GitHub username.
 
-    ```bash
+    
     git clone https://github.com/<your-username>/SecurePractices101.git
-    ```
+    
 
 ## Step 3: Create a New Branch
 
   Create a new branch for your feature or bug fix. Make sure to give it a descriptive name.
 
-    ```bash
+  
     git checkout -b my-feature
-    ```
+    
 
 ## Step 4: Make Changes
 
@@ -30,17 +30,17 @@ Welcome to SecurePractices101, where we're dedicated to promoting secure coding 
 
   Commit your changes with a meaningful message.
 
-    ```bash
+    
     git commit -m "Add feature: XYZ"
-    ```
+    
 
 ## Step 6: Push Your Changes
 
   Push the changes to your fork on GitHub.
 
-    ```bash
+    
     git push origin my-feature
-    ```
+    
 
 ## Step 7: Create a Pull Request
 
